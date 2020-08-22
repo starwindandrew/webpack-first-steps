@@ -1,3 +1,7 @@
+import TodoList from './TodoList';
+import TodoListItem from './TodoListItem';
+import TodoListForm from './TodoListForm';
+import '../index.css'
 const todos = [
     'Сделать проектную работу',
     'Полить цветы',

@@ -1,4 +1,4 @@
-class TodoListForm {
+export default class TodoListForm {
     /**
      * Шаблон
      * @type {Element}

@@ -1,4 +1,4 @@
-class TodoListItem {
+export default class TodoListItem {
     static _template = document.querySelector('#todo-list-item').content;
 
     constructor(text, addItem) {

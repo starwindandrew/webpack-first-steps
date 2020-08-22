@@ -1,5 +1,5 @@
-@import url(./__input/form__input.css);
-@import url(./__submit/form_submit.css);
+@import url(__input/form__input.css);
+@import url(__submit/form_submit.css);
 
 .form {
     height: 70px;

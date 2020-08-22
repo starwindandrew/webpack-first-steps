@@ -1,4 +1,4 @@
-class TodoList {
+export default class TodoList {
 
     /**
      * Статическое свойство - шаблон

@@ -5,3 +5,13 @@
     text-align: center;
     font-weight: 900;
 }
+
+.title::before {
+    content: '';
+    position: absolute;
+    background-image: url('./../../images/jpegsystems-home.jpg');
+    background-size: cover;
+    left: -40px;
+    width: 40px;
+    height: 40px;
+}
